@@ -42,6 +42,9 @@ Can be used in alert system for catching black listed people.
 ![image](https://user-images.githubusercontent.com/89216667/161902641-386d7599-7b60-4228-91a0-e2cf3a0116c8.png)
 ![image](https://user-images.githubusercontent.com/89216667/161902662-33cc97ff-9d6c-499d-ad72-65bc81b6b812.png)
 
+Augmentation 🥇
+![image](https://user-images.githubusercontent.com/89216667/167685765-82ab6e41-9e62-442f-b26f-aff8610b9deb.png)
+
 
 run:-
 just run according to the steps mentioned above.
